@@ -83,8 +83,7 @@
 
 <!-- social media links -->
 
-[LinkedIn]: https://www.linkedin.com/in/hasan-masum-281157186/
-[Instagram]: https://www.instagram.com/jhm69/
+[LinkedIn]: https://www.linkedin.com/in/shattajit-ghosh-152634270/
 [Facebook]: https://www.facebook.com/jhm69
 [Twitter]: (https://twitter.com/jhm69)
-[Youtube]: https://www.youtube.com/@jhm69
+[Youtube]: (https://www.youtube.com/channel/UC4r4TziThjrhoVNbbrGT38Q)
