@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shattajit&label=Profile%20views&color=0e75b6&style=flat" alt="Shattajit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhm69" alt="jhm69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shattajit" alt="Shattajit" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhm69&show_icons=true&locale=en&layout=compact" alt="jhm69" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&locale=en" alt="jhm69" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhm69&" alt="jhm69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shattajit&show_icons=true&locale=en&layout=compact" alt="Shattajit" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shattajit&show_icons=true&locale=en" alt="Shattajit" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shattajit&" alt="Shattajit" /></p>
 
 
 - 🔭 I’m currently working on **[Shuno - an audio streaming app](https://github.com/JHM69/Shuno-Backend)**
