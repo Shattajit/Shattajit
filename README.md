@@ -48,15 +48,6 @@
 |              SUST SWE Technovent 2023 Hackathon               |  [11th rank][sustHackathon]                                                                |
 |                  Mujib 100 idea contest 2021                  | [Secured TOP 30][mujib100]                                                                |
 
-## SOME WORK
-
-|                                     Work Description                                     |      Work Title      | Link                                      |
-| :--------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
-|                    Developed Course and Exam Management (LMS) Web App                    |     mp-bian.com      | [Visit Site][mpBian]                      |
-|                         Developed Sales and Accounting Software                          | Infinity Publication | [View Presentation][infinityPublication]  |
-| Developed Automated Case Management, Public Search and Judge Assignment Software Backend |   CMM Court Dhaka    | [Visit Site][cmmCourtDhaka]               |
-|                  Developed an Android App for All Judges of Bangladesh                   | Judges' Platform BD  | [Get It on Google Play][judgesPlatformBd] |
-
 <!-- links -->
 
 [mpBian]: http://mp-bian.com
