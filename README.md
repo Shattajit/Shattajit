@@ -10,9 +10,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shattajit&" alt="Shattajit" /></p>
 
 
-- 🔭 I’m currently working on **[Shuno - an audio streaming app](https://github.com/JHM69/Shuno-Backend)**
+<!-- - 🔭 I’m currently working on **[Shuno - an audio streaming app](https://github.com/Shattajit/Shuno-Backend)** -->
 
-- 📫 How to reach me **jahangirhossainm69@gmail.com**
+- 📫 How to reach me **jeet.shatta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
