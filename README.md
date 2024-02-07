@@ -34,19 +34,19 @@
 
 ## AWARDS
 
-|                       Competition Name                        |         Project Name          | Achievement                                                                               |
-| :-----------------------------------------------------------: | :---------------------------: | :---------------------------------------------------------------------------------------- |
-|                    KYAU National Hackathon                    |Smart Village System Management| [Champion][kyau]                                                                 |
-|                       HackHolyoke 2020                        |    [CareBuddy][carebuddy]     | [Champion in all categories][hackHolyoke2020]                                             |
-|                   MBSTU Robo Tech Olympiad                    |     [Go Bangladesh][goBd]     | [Champion at Project Showcasing][mbstuRoboTech]                                           |
-|                       HackHolyoke 2021                        | [Money Tracker][moneyTracker] | [1st Position in Best Financial Management category ][hackHolyoke2021]                    |
-|          Project Showcasing at CSE Day event of JnU           |   [Garage Chai][garageChai]   | [1st Runner-Up][cseDay]                                                                   |
-|    Software Showcasing in Nacter Robotic Olympiad, Bogura     |     [Go Bangladesh][goBd]     | [1st Runner Up][nacterRoboticOlympiad]                                                    |
-| Software Showcasing and Idea Competition - RUET CSE Fest 2k22 |     [Go Bangladesh][goBd]     | [1st Runner Up in Software Showcasing and 2nd Runner Up in Idea Competition][ruetCseFest] |
-|    App Showcasing Competition organized by JnU IT Society     |  [Accelerator][accelerator]   | [Second Runner Up][appShowcasingCompetition]                                              |
-|                 Banglalink SDG Hackathon 3.0                  |      [Green Doctor][gd]       | [Top 10][banglalinkSdg]                                                                   |
-|              SUST SWE Technovent 2023 Hackathon               |   [Garage Chai][garageChai]   | [11th rank][sustHackathon]                                                                |
-|                  Mujib 100 idea contest 2021                  |     [Go Bangladesh][goBd]     | [Secured TOP 30][mujib100]                                                                |
+|                       Competition Name                        | Achievement                                                                               |
+| :-----------------------------------------------------------: | :---------------------------------------------------------------------------------------- |
+|                    KYAU National Hackathon                    | [Champion][kyau]                                                                 |
+|                       HackHolyoke 2020                        |  [Champion in all categories][hackHolyoke2020]                                             |
+|                   MBSTU Robo Tech Olympiad                    |   [Champion at Project Showcasing][mbstuRoboTech]                                           |
+|                       HackHolyoke 2021                        |  [1st Position in Best Financial Management category ][hackHolyoke2021]                    |
+|          Project Showcasing at CSE Day event of JnU           |  [1st Runner-Up][cseDay]                                                                   |
+|    Software Showcasing in Nacter Robotic Olympiad, Bogura     |  [1st Runner Up][nacterRoboticOlympiad]                                                    |
+| Software Showcasing and Idea Competition - RUET CSE Fest 2k22 |  [1st Runner Up in Software Showcasing and 2nd Runner Up in Idea Competition][ruetCseFest] |
+|    App Showcasing Competition organized by JnU IT Society     | [Second Runner Up][appShowcasingCompetition]                                              |
+|                 Banglalink SDG Hackathon 3.0                  |  [Top 10][banglalinkSdg]                                                                   |
+|              SUST SWE Technovent 2023 Hackathon               |  [11th rank][sustHackathon]                                                                |
+|                  Mujib 100 idea contest 2021                  | [Secured TOP 30][mujib100]                                                                |
 
 ## SOME WORK
 
