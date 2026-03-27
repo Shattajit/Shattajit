@@ -19,7 +19,9 @@
 <a href="https://twitter.com/ShattajiT_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shattajit" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Shattajeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shattajit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4r4TziThjrhoVNbbrGT38Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Shattajit Ghosh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shattajit-ghosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Shattajit Ghosh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shattajit-ghosh/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shattajit Ghosh" height="30" width="40" />
+</a>
 </p>
 
 ## MY SKILLS & TOOLS
