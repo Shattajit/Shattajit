@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shattajit Ghosh</h1>
-<h3 align="center">CS Student at Jagannath University, Dhaka</h3>
+<h3 align="center">Software Engineer (L1) ar Astha.IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shattajit&label=Profile%20views&color=0e75b6&style=flat" alt="Shattajit" /> </p>
 
